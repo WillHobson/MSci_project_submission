@@ -1,5 +1,5 @@
 
-This repository will track the University of Bristol MSci project by  Will Hobson and Emily Wright**
+**This repository will track the University of Bristol MSci project by  Will Hobson and Emily Wright**
 
 Project Title: Modelling Uranium Hydride Formation
 
